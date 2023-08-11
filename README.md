@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Joshua Ming. I'm entering my fourth year computer science student with a minor in software engineering at Western University. 
+I'm Joshua Ming. I am a fourth year computer science student at Western University. 
 
-Currently, I work as a Software Engineer Intern at Kijiji Canada Ltd.!
+I have previously worked at Kijiji Canada as a backend software developer where I created, maintained, and tested various APIs.
 <!--
 **joshming/joshming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
