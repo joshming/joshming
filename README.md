@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I'm a final year computer science student at Western University, in London Ontario. I'm passionate about continuously learning about whatever whether it's technology related or random fun facts.<br>🔭 I’m currently working on a project called Sticky Thoughts, a web-application to manage your ideas and random journal entries.
-
-I've previously completed a 16-month internship at Kijiji where I worked as a backend software engineer. I was fortunate enough to work on many different Java microservices that were hosted on-premise and on GCP!
+I'm a Computer science graduate from Western University, in London Ontario. I'm passionate about continuously learning about whatever whether it's technology related or random fun facts.
 
 Currently, I am now an Application Developer at [eRIS, a SUEZ Digital company](https://erisconnects.com/), working on a full-stack java application to help clients analyze and visualize their data in a centralized place. 
+
+I've previously completed a 16-month internship at Kijiji where I worked as a backend software engineer. I was fortunate enough to work on many different Java microservices that were hosted on-premise and on GCP!
 
 Some more work that I have done can be founded in this GitHub organization: https://github.com/orgs/Group-6-CS-4471
 
